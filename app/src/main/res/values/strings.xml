@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Temi Exercise</string>
+
+    <string name="base_url">https://s3.eu-central-1.amazonaws.com</string>
+
+    <string name="recents_tab_text">Recents</string>
+    <string name="contacts_tab_text">Contacts</string>
+</resources>
