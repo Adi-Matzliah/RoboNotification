@@ -8,4 +8,4 @@ Small modern android app based <b>MVP</b> architecture and bunch or great librar
 * <b>Glide</b> - Images
 * <b>PubNub<b> - Notification Service
 
-+![img](demo.gif)
+![img](demo.gif)
