@@ -1,4 +1,4 @@
-Small modern android app based <b>MVP</b> architecture and bunch oכ great libraries/features such as:
+Small modern android app based <b>MVP</b> architecture and bunch of great libraries/features such as:
 * <b>RXJava2</b> - Observer Pattern
 * <b>Dagger2</b> - Injection
 * <b>ButterKnife</b> - View Injection
