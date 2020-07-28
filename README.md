@@ -1,4 +1,4 @@
-# Send a message to a Robot (Temi)
+# RobotNotification (Temi)
 
 Small modern android app based <b>MVP</b> architecture and bunch of great libraries/features such as:
 * <b>RXJava2</b> - Observer Pattern
